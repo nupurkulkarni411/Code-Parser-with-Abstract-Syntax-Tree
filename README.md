@@ -2,9 +2,9 @@ Developed a source code analyser in Python for extracting lexical content from s
 
 Parser performed tokenizing, analysing the code's syntax from its lexical content, and building Abstract Syntax Tree that holds the results of analysis
 
-This project analyzes C++ source code 
+This project analyzes C++ source code only
 
 How to run the project: 
 python MetricsExecutive.py
 
-Please provide appropriate file path for which analysis is required by making changes in MetricsExecutive.py
+Please provide appropriate file path for which analysis is required in MetricsExecutive.py
